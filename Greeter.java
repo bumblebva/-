@@ -6,9 +6,9 @@ public class Greeter {
 	{
 		Scanner in = new Scanner(System.in);
 		
-		double math1 = 86.0;
-		double math2 = 4.0;
-		double math3 = 7.0;
+		double math1 = 64.0;
+		double math2 = 5.0;
+		double math3 = 10.0;
 		double product;
 		double sum = math1 + math2;
 		int userInput;
